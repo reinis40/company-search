@@ -1,0 +1,11 @@
+{
+    "name": "n1ghtcorrr/kompanijas",
+    "type": "project",
+    "authors": [
+        {
+            "name": "reinis ozolins"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
